@@ -1,0 +1,7 @@
+{
+  "versionCode": 400012,
+  "versionName": "4.1.12",
+  "url": "https://raw.githubusercontent.com/panZaba/DeskClock-releases/main/beta/DeskClock-400012.apk",
+  "sha256": "b1835deb82f0eb9298f30fbfc88d2ab68ad55dcf15cc1b809e66b1e6ef761078",
+  "changelog": "Update UpdateCheckReceiver.kt"
+}
