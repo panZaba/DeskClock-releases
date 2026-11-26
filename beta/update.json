@@ -1,7 +1,7 @@
 {
-  "versionCode": 400014,
-  "versionName": "4.1.14",
-  "url": "https://raw.githubusercontent.com/panZaba/DeskClock-releases/main/beta/DeskClock-400014.apk",
-  "sha256": "1073d25fe110a13e1a173f2cd68471e1b587f11038c6fd820b196ae676b42707",
-  "changelog": "Add files via upload"
+  "versionCode": 400015,
+  "versionName": "4.1.15",
+  "url": "https://raw.githubusercontent.com/panZaba/DeskClock-releases/main/beta/DeskClock-400015.apk",
+  "sha256": "6297b5807b6f42f46435f4ca763aeb3e31788842a0f7c9ee1cf7ce21ee16f406",
+  "changelog": "Update TERC_Urzedowy_2026-07-17.csv"
 }
