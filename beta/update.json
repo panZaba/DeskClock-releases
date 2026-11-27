@@ -1,7 +1,7 @@
 {
-  "versionCode": 400017,
-  "versionName": "4.1.17",
-  "url": "https://raw.githubusercontent.com/panZaba/DeskClock-releases/main/beta/DeskClock-400017.apk",
-  "sha256": "a32c0c4f50036dbd8d435ef4e96ef045c46fd30d0c7abc416b0c7908f35f9132",
-  "changelog": "Add files via upload"
+  "versionCode": 400018,
+  "versionName": "4.1.18",
+  "url": "https://raw.githubusercontent.com/panZaba/DeskClock-releases/main/beta/DeskClock-400018.apk",
+  "sha256": "b4e8c6d2bdfdc5a4cbfce1599eeab5e6dee589ca38a892b47408d4be2f733908",
+  "changelog": "Update ClockFaceView.kt"
 }
