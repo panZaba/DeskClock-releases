@@ -1,7 +1,7 @@
 {
-  "versionCode": 400027,
-  "versionName": "4.1.27",
-  "url": "https://raw.githubusercontent.com/panZaba/DeskClock-releases/main/beta/DeskClock-400027.apk",
-  "sha256": "9527bb47ab31706cd5dcaba065d398a82761db286275aced9a3e92addff5ee7e",
-  "changelog": "Update INSTRUKCJA_WGRANIA_IMGW_GITHUB_MOBILE.md"
+  "versionCode": 400028,
+  "versionName": "4.1.28",
+  "url": "https://raw.githubusercontent.com/panZaba/DeskClock-releases/main/beta/DeskClock-400028.apk",
+  "sha256": "7d41ed7df7fc9040a2225ef25795d993a659d104e7090091c506f5044a8f9d33",
+  "changelog": "Manual beta build"
 }
