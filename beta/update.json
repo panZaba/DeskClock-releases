@@ -1,7 +1,7 @@
 {
-  "versionCode": 400026,
-  "versionName": "4.1.26",
-  "url": "https://raw.githubusercontent.com/panZaba/DeskClock-releases/main/beta/DeskClock-400026.apk",
-  "sha256": "e32e3aa6f4dd318c255f93b9d8daa8ca9a24603942bb89650791d72fb6ccd0a0",
-  "changelog": "Update RadioPanelDialog.kt"
+  "versionCode": 400027,
+  "versionName": "4.1.27",
+  "url": "https://raw.githubusercontent.com/panZaba/DeskClock-releases/main/beta/DeskClock-400027.apk",
+  "sha256": "9527bb47ab31706cd5dcaba065d398a82761db286275aced9a3e92addff5ee7e",
+  "changelog": "Update INSTRUKCJA_WGRANIA_IMGW_GITHUB_MOBILE.md"
 }
