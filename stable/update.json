@@ -1,7 +1,7 @@
 {
-  "versionCode": 400021,
-  "versionName": "4.1.21",
-  "url": "https://raw.githubusercontent.com/panZaba/DeskClock-releases/main/stable/DeskClock-400021.apk",
-  "sha256": "5d60ec3901c2238019824694c273c2eb3578d87b710889791c10351a9dde8d0d",
-  "changelog": "Add files via upload"
+  "versionCode": 400025,
+  "versionName": "4.1.25",
+  "url": "https://raw.githubusercontent.com/panZaba/DeskClock-releases/main/stable/DeskClock-400025.apk",
+  "sha256": "59082bfb7043c0f6775cb956dd6430080a14e61217196daad510181146ecad3e",
+  "changelog": "Dodane radio Internetowe"
 }
